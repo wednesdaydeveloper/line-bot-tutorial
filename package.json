@@ -1,0 +1,19 @@
+{
+  "name": "pinponpan-game",
+  "version": "0.0.0",
+  "description": "pin pon pan game",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.11.2"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^5.0.0",
+    "express": "^4.15.2",
+    "async": "~0.2.8"
+  }
+}
